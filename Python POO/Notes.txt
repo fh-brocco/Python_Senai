@@ -1,0 +1,8 @@
+
+# Python class:
+
+""" publico " " =  cpf
+
+    privado "_" = _cpf
+
+    protegido "__" = __cpf """
